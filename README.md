@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 3. Setupt your env files with API keys 
-GOOGLE_API_KEY=your_google_genai_api_key
-OPENAI_API_KEY=your_openai_api_key
+- GOOGLE_API_KEY=your_google_genai_api_key
+- OPENAI_API_KEY=your_openai_api_key
 
 4. Run with streanlit
